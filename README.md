@@ -1,2 +1,3 @@
-EMAIL:teste1@email.com
-SENHAS:123456
+EMAIL:teste1@email.com; 
+
+SENHAS:123456;
